@@ -5,11 +5,11 @@ A console-based Hospital Management System in C demonstrating Linked Lists, Queu
 
 ## ✨ Features
 
-Register and manage patients and doctors
-Book appointments with automatic billing
-Search functionality by name
-Persistent data storage (text files)
-Clear all data option
+1.Register and manage patients and doctors
+2.Book appointments with automatic billing
+3.Search functionality by name
+4.Persistent data storage (text files)
+5.Clear all data option
 
 ## 📊 Data Structures Used
 
@@ -30,13 +30,13 @@ Search persons by name (partial match supported)
 
 ## 📁 Data Files
 
-patients.txt - Patient records
-doctors.txt - Doctor information
-appointments.txt - Appointment details
+1. patients.txt - Patient records
+2. doctors.txt - Doctor information
+3. appointments.txt - Appointment details
 
 ## 🔮 Future Enhancements
 
-Full undo/redo functionality
-Appointment cancellation
-Sorting algorithms
-Priority queue for emergencies
+1.Full undo/redo functionality
+2.Appointment cancellation
+3.Sorting algorithms
+4.Priority queue for emergencies
