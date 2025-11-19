@@ -36,7 +36,7 @@ Search persons by name (partial match supported)
 
 ## 🔮 Future Enhancements
 
-1.Full undo/redo functionality
-2.Appointment cancellation
-3.Sorting algorithms
-4.Priority queue for emergencies
+1. Full undo/redo functionality
+2. Appointment cancellation
+3. Sorting algorithms
+4. Priority queue for emergencies
