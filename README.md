@@ -13,18 +13,18 @@ Clear all data option
 
 ## 📊 Data Structures Used
 
-# 1. Linked List
+1. Linked List
 Stores patient and doctor records
 Dynamic insertion at the end
 Efficient traversal and display operations
-# 2. Queue (FIFO)
+2. Queue (FIFO)
 Manages appointment scheduling
 Enqueue operation for booking appointments
 Maintains front and rear pointers
-# 3. Stack
+3. Stack
 Implements undo functionality structure
 Push and pop operations for future enhancements
-# 4. Linear Search
+4. Linear Search
 Search patients/doctors by ID
 Search persons by name (partial match supported)
 
